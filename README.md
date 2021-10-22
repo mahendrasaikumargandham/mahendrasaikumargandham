@@ -6,7 +6,7 @@
 <source src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working-man.mp4" type="video/mp4">
 </video> -->
   
-<img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px">
+<!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px"> -->
 
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
@@ -70,7 +70,7 @@
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/npm.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/nodedotjs.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/dotnet.svg">&nbsp;
-<img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/work-from-home.gif" width="300px">
+<!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/work-from-home.gif" width="300px"> -->
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/windows.svg">&nbsp;
