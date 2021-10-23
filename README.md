@@ -1,10 +1,6 @@
 
 <h1>Hi there, This is <a href="https://mahendrasaikumargandham.vercel.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3>Passionate about Programming Research & Development</h3>
-
-<!-- <video width="320" height="240" controls autoplay>
-<source src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working-man.mp4" type="video/mp4">
-</video> -->
   
 <!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px"> -->
 
@@ -19,12 +15,12 @@
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/Project-SearchEngine">Search Engine</a></li>
+    <li><a href="https://github.com/mahendrasaikumargandham/SearchEngine">Search Engine</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/netflix-clone">Netflix-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/amazon-clone">Amazon-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/hardwareservices">Hardware Services</a></li>
   </ul>
-  </details>
+ </details>
   <details>
   <summary>AI Development</summary>
   <ul>
