@@ -16,6 +16,7 @@
 <details><summary>Full Stack Development</summary>
   <ul>
     <li><a href="https://github.com/mahendrasaikumargandham/SearchEngine">Search Engine</a></li>
+    <li><a href="https://github.com/mahendrasaikumargandham/LinkedIn-Clone">LinkedIn-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/netflix-clone">Netflix-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/amazon-clone">Amazon-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/hardwareservices">Hardware Services</a></li>
