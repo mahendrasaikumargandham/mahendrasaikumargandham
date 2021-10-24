@@ -26,7 +26,7 @@
   <summary>AI Development</summary>
   <ul>
     <li><a href="https://github.com/mahendrasaikumargandham/face-detection-app">Face-detection-App</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/smile-detector-app">Smile-detector-App</a></li>
+<!--     <li><a href="https://github.com/mahendrasaikumargandham/smile-detector-app">Smile-detector-App</a></li> -->
   </ul>
   </details>
 <details><summary>Linux Development</summary>
