@@ -2,7 +2,7 @@
 <h1>Hi there, This is <a href="https://mahendrasaikumargandham.vercel.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3>Passionate about Programming Research & Development</h3>
   
- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px"> 
+ <!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px"> -->
 
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
