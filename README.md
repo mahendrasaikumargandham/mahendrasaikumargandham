@@ -114,5 +114,4 @@
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahendrasaikumargandham&hide_border=true)
-<!-- 
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrasaikumargandham&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrasaikumargandham&layout=compact) -->
+![](https://activity-graph.herokuapp.com/graph?username=mahendrasaikumargandham&theme=redical)
