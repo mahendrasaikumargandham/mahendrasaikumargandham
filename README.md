@@ -110,8 +110,8 @@
 
 </a>
 
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true)
+[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahendrasaikumargandham&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahendrasaikumargandham&hide_border=true&theme=radical)
 ![](https://activity-graph.herokuapp.com/graph?username=mahendrasaikumargandham&theme=redical)
