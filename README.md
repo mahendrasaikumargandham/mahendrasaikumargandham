@@ -103,12 +103,12 @@
 ![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=mahendrasaikumargandham&color=blueviolet)  
 
 
-<!-- <a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
+<a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
 
 ![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/overview.svg)
 ![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/languages.svg)
 
-</a> -->
+</a>
 
 [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true)
 <br/>
