@@ -4,7 +4,7 @@
   
  <!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/working.gif" width="350px"> -->
 
-<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/mahendrasaikumargandham"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/github.svg" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/mahendra.gandham.3/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
