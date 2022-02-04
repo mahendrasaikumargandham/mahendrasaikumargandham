@@ -31,7 +31,7 @@
   </details>
   <details><summary>Game Designing & Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li>
+<!--     <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li> -->
 <!--     <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li> -->
   </ul>
 </details>
