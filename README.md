@@ -27,10 +27,10 @@
   <ul>
     <li><a href="https://github.com/mahendrasaikumargandham/face-detection-app">Face-detection-App</a></li>
 <!--     <li><a href="https://github.com/mahendrasaikumargandham/smile-detector-app">Smile-detector-App</a></li> -->
-  </ul>
+<!--   </ul>
   </details>
   <details><summary>Game Designing & Development</summary>
-  <ul>
+  <ul> -->
 <!--     <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li> -->
 <!--     <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li> -->
   </ul>
