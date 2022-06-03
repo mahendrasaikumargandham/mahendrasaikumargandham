@@ -2,7 +2,7 @@
 <h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Mahendra (Software Developer)</a></h1>
 <h3>Passionate about Programming Research & Development</h3>
   
- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/code.gif" width="200px">
+<!--  <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/code.gif" width="200px"> -->
 
 <a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
