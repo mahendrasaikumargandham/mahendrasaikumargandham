@@ -2,7 +2,18 @@
 <h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Mahendra (Software Developer)</a></h1>
 <h3>Passionate about Programming Research & Development</h3>
   
- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/code.gif" width="35%">
+ <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/code<.gif" width="35%">
+ <script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
+ 
+ <lottie-player
+  autoplay
+  controls
+  loop
+  mode="normal"
+  src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/server.json"
+  style="width: 320px"
+>
+</lottie-player>
 
 <a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
