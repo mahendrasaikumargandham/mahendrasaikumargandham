@@ -110,6 +110,7 @@
 ![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=mahendrasaikumargandham&color=blueviolet)  
 
 [![Mahendra's Holopin board](https://holopin.io/api/user/board?user=mahendra_4919)](https://holopin.io/@mahendra_4919)
+[![An image of @mahendra_4919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahendra_4919)](https://holopin.io/@mahendra_4919)
 
 <a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
 
