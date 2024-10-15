@@ -22,18 +22,11 @@
     <li><a href="https://github.com/mahendrasaikumargandham/amazon-clone">Amazon-Clone</a></li>
     <li><a href="https://github.com/mahendrasaikumargandham/hardwareservices">Hardware Services</a></li>
   </ul>
- </details>
-  <details>
-  <summary>AI Development</summary>
+</details>
+<details><summary>Game Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/face-detection-app">Face-detection-App</a></li>
-<!--     <li><a href="https://github.com/mahendrasaikumargandham/smile-detector-app">Smile-detector-App</a></li> -->
-<!--   </ul>
-  </details>
-  <details><summary>Game Designing & Development</summary>
-  <ul> -->
-<!--     <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li> -->
-<!--     <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li> -->
+    <li><a href="https://github.com/mahendrasaikumargandham/ViceCityRemastered">Vice City Remastered</a></li>
+    <li><a href="https://github.com/mahendrasaikumargandham/MatrixQuest">Matrix Quest</a></li>
   </ul>
 </details>
 <details><summary>Linux Development</summary>
@@ -66,6 +59,7 @@
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/c.svg">&nbsp;
+<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/c-plusplus.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg">&nbsp;
@@ -75,6 +69,11 @@
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/nodedotjs.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/dotnet.svg">&nbsp;
 <!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/work-from-home.gif" width="300px"> -->
+<h3>[$Game Engines:~#]</h3>
+
+<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/unity.svg">&nbsp;
+<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/unrealengine.svg">&nbsp;
+
 <h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/windows.svg">&nbsp;
@@ -103,14 +102,13 @@
 
 <h2>What if you like my work? 🚀</h2>
 <ul>
-  <li>Subscribe to my <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ">Youtube Channel</a></li>
+  <li>Subscribe to my <a href="https://www.youtube.com/@mahendra4919">Youtube Channel</a></li>
   <li>Star ⭐  the Projects you wish</li>
 </ul>
 
 ![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=mahendrasaikumargandham&color=blueviolet)  
 
 [![An image of @mahendra_4919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahendra_4919)](https://holopin.io/@mahendra_4919)
-[![Mahendra's Holopin board](https://holopin.io/api/user/board?user=mahendra_4919)](https://holopin.io/@mahendra_4919)
 
 <a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
 
